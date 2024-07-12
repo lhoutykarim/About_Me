@@ -4,10 +4,25 @@ Consultant Data expérimenté, j'aide les entreprises à exploiter leur potentie
 
 # Data Framework 
 
-## Database Management :
 
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+**Organisation:** Jira | Trello | Notion
+
+**ETL:** Alteryx | Informatica | Knime
+
+**Transformation:** Dbt
+
+**Langage de programmation:** Python | SQL | HTML | CSS | Linux  
+
+**Outils de visualisation des données:** Tableau | PowerBI | Metabase
+
+**Outils de contrôle de version:** Git | GitHub | GitLab
+
+**Environnements de développement** : Jupyter Notebook | VS Code
+
+**Outils de design:** Miro
+
+**SGBD:** Snowflake | Oracle | Postgres | Databricks
+
+**Bureautique:** Office 365 | Google Suite  
+
+**Autres :** Linux, Jenkins, Dbeaver, Airflow, Vtom
