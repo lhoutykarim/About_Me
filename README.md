@@ -1,31 +1,39 @@
 # About_Me
 
-Consultant Data expérimenté, j'aide les entreprises à exploiter leur potentiel de données en concevant des solutions analytiques. J'ai travaillé avec des clients tels que Maif, BNP Paribas, Qonto. Je maîtrise une panoplie d’outil liés à la Data. Passionné par l'innovation en data, je cherche constamment à monter en compétence sur les nouvelles outils Data pour rester à la pointe du domaine. Laissez-moi être votre partenaire pour réussir vos projets axés sur la Data. 
+Experienced Data Consultant, I help companies harness their data potential by designing analytical solutions. I have worked with clients such as Maif, BNP Paribas, and Qonto. I am proficient in a wide range of data-related tools. Passionate about data innovation, I constantly seek to improve my skills in new data tools to stay at the forefront of the field. Let me be your partner in successfully executing your data-driven projects.
 
 # Data Framework 
 
 
-**Organisation:** Jira | Trello | Notion
 
-**ETL:** Alteryx | Informatica | Knime
+## Project Management Tools
+[![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)](https://www.atlassian.com/software/jira)
+[![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)](https://trello.com/)
+[![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=)](https://www.notion.so/)
 
-**Transformation:** Dbt
 
-**Langage de programmation:** Python | SQL | HTML | CSS | Linux  
+## Data Integration Tools
+[![Alteryx](https://img.shields.io/static/v1?style=for-the-badge&message=Alteryx&color=276DC3&logo=Alteryx&logoColor=FFFFFF&label=)](https://www.alteryx.com/)
+[![Informatica](https://img.shields.io/static/v1?style=for-the-badge&message=Informatica&color=FF4C00&logo=Informatica&logoColor=FFFFFF&label=)](https://www.informatica.com/)
+[![Knime](https://img.shields.io/static/v1?style=for-the-badge&message=Knime&color=FFEC00&logo=Knime&logoColor=000000&label=)](https://www.knime.com/)
 
-**Outils de visualisation des données:** Tableau | PowerBI | Metabase
+## Data Transformation
 
-**Outils de contrôle de version:** Git | GitHub | GitLab
+[![dbt](https://img.shields.io/static/v1?style=for-the-badge&message=dbt&color=FF694B&logo=dbt&logoColor=FFFFFF&label=)](https://www.getdbt.com/)
 
-**Environnements de développement** : Jupyter Notebook | VS Code
+## Programming Languages
 
-**Outils de design:** Miro
+[![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)](https://www.python.org/)
+[![SQL](https://img.shields.io/static/v1?style=for-the-badge&message=SQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)](https://www.mysql.com/)
+[![HTML](https://img.shields.io/static/v1?style=for-the-badge&message=HTML&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/static/v1?style=for-the-badge&message=CSS&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logo=Linux&logoColor=000000&label=)](https://www.kernel.org/)
 
-**SGBD:** Snowflake | Oracle | Postgres | Databricks
+## Data Visualization Tools
 
-**Bureautique:** Office 365 | Google Suite  
 
-**Autres :** Linux, Jenkins, Dbeaver, Airflow, Vtom
+
+
 
 [![dbt](https://img.shields.io/static/v1?style=for-the-badge&message=dbt%20v1.5.0&color=FF694B&logo=dbt&logoColor=FFFFFF&label=)](https://www.getdbt.com/)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
