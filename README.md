@@ -2,6 +2,14 @@
 
 Experienced Data Consultant, I help companies harness their data potential by designing analytical solutions. I have worked with clients such as Maif, BNP Paribas, and Qonto. I am proficient in a wide range of data-related tools. Passionate about data innovation, I constantly seek to improve my skills in new data tools to stay at the forefront of the field. Let me be your partner in successfully executing your data-driven projects.
 
+
+# Certified
+
+[![Alteryx](https://img.shields.io/static/v1?style=for-the-badge&message=Alteryx&color=276DC3&logo=Alteryx&logoColor=FFFFFF&label=)](https://www.alteryx.com/) 
+[![Tableau](https://img.shields.io/static/v1?style=for-the-badge&message=Tableau&color=E97627&logo=Tableau&logoColor=FFFFFF&label=)](https://www.tableau.com/)
+[![dbt](https://img.shields.io/static/v1?style=for-the-badge&message=dbt&color=FF694B&logo=dbt&logoColor=FFFFFF&label=)](https://www.getdbt.com/)
+
+
 # Data Framework 
 
 
@@ -13,13 +21,10 @@ Experienced Data Consultant, I help companies harness their data potential by de
 
 
 ## Data Integration Tools
-[![Alteryx](https://img.shields.io/static/v1?style=for-the-badge&message=Alteryx&color=276DC3&logo=Alteryx&logoColor=FFFFFF&label=)](https://www.alteryx.com/)
+
 [![Informatica](https://img.shields.io/static/v1?style=for-the-badge&message=Informatica&color=FF4C00&logo=Informatica&logoColor=FFFFFF&label=)](https://www.informatica.com/)
 [![Knime](https://img.shields.io/static/v1?style=for-the-badge&message=Knime&color=FFEC00&logo=Knime&logoColor=000000&label=)](https://www.knime.com/)
 
-## Data Transformation
-
-[![dbt](https://img.shields.io/static/v1?style=for-the-badge&message=dbt&color=FF694B&logo=dbt&logoColor=FFFFFF&label=)](https://www.getdbt.com/)
 
 ## Programming Languages
 
@@ -27,7 +32,6 @@ Experienced Data Consultant, I help companies harness their data potential by de
 [![SQL](https://img.shields.io/static/v1?style=for-the-badge&message=SQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)](https://www.mysql.com/)
 [![HTML](https://img.shields.io/static/v1?style=for-the-badge&message=HTML&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/static/v1?style=for-the-badge&message=CSS&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logo=Linux&logoColor=000000&label=)](https://www.kernel.org/)
 
 ## Data Visualization Tools
 
@@ -56,6 +60,7 @@ Experienced Data Consultant, I help companies harness their data potential by de
 [![Oracle](https://img.shields.io/static/v1?style=for-the-badge&message=Oracle&color=F80000&logo=Oracle&logoColor=FFFFFF&label=)](https://www.oracle.com/)
 [![Postgres](https://img.shields.io/static/v1?style=for-the-badge&message=Postgres&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)](https://www.postgresql.org/)
 [![Databricks](https://img.shields.io/static/v1?style=for-the-badge&message=Databricks&color=FF3621&logo=Databricks&logoColor=FFFFFF&label=)](https://databricks.com/)
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 ## Office Suites
 
@@ -67,25 +72,6 @@ Experienced Data Consultant, I help companies harness their data potential by de
 [![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logo=Linux&logoColor=000000&label=)](https://www.kernel.org/)
 [![Jenkins](https://img.shields.io/static/v1?style=for-the-badge&message=Jenkins&color=D24939&logo=Jenkins&logoColor=FFFFFF&label=)](https://www.jenkins.io/)
 [![Dbeaver](https://img.shields.io/static/v1?style=for-the-badge&message=Dbeaver&color=372923&logo=Dbeaver&logoColor=FFFFFF&label=)](https://dbeaver.io/)
-[![Airflow](https://img.shields.io/static/v1?style=for-the-badge&message=Airflow&color=017
-
-
-
-
-
-
-
-
-
-[![dbt](https://img.shields.io/static/v1?style=for-the-badge&message=dbt%20v1.5.0&color=FF694B&logo=dbt&logoColor=FFFFFF&label=)](https://www.getdbt.com/)
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
-
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
