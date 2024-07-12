@@ -31,6 +31,48 @@ Experienced Data Consultant, I help companies harness their data potential by de
 
 ## Data Visualization Tools
 
+[![Tableau](https://img.shields.io/static/v1?style=for-the-badge&message=Tableau&color=E97627&logo=Tableau&logoColor=FFFFFF&label=)](https://www.tableau.com/)
+[![PowerBI](https://img.shields.io/static/v1?style=for-the-badge&message=PowerBI&color=F2C811&logo=Power%20BI&logoColor=000000&label=)](https://powerbi.microsoft.com/)
+[![Metabase](https://img.shields.io/static/v1?style=for-the-badge&message=Metabase&color=509EE3&logo=Metabase&logoColor=FFFFFF&label=)](https://www.metabase.com/)
+
+## Version Control
+
+ [![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)](https://git-scm.com/)
+ [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/)
+[![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)](https://gitlab.com/)
+
+## Development Tools
+
+[![Jupyter Notebook](https://img.shields.io/static/v1?style=for-the-badge&message=Jupyter%20Notebook&color=F37626&logo=Jupyter&logoColor=FFFFFF&label=)](https://jupyter.org/)
+ [![VS Code](https://img.shields.io/static/v1?style=for-the-badge&message=VS%20Code&color=007ACC&logo=Visual%20Studio%20Code&logoColor=FFFFFF&label=)](https://code.visualstudio.com/)
+
+ ## Collaboration Tools
+
+[![Miro](https://img.shields.io/static/v1?style=for-the-badge&message=Miro&color=050038&logo=Miro&logoColor=FFFFFF&label=)](https://miro.com/)
+
+## Database Tools
+
+[![Snowflake](https://img.shields.io/static/v1?style=for-the-badge&message=Snowflake&color=29B5E8&logo=Snowflake&logoColor=FFFFFF&label=)](https://www.snowflake.com/)
+[![Oracle](https://img.shields.io/static/v1?style=for-the-badge&message=Oracle&color=F80000&logo=Oracle&logoColor=FFFFFF&label=)](https://www.oracle.com/)
+[![Postgres](https://img.shields.io/static/v1?style=for-the-badge&message=Postgres&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)](https://www.postgresql.org/)
+[![Databricks](https://img.shields.io/static/v1?style=for-the-badge&message=Databricks&color=FF3621&logo=Databricks&logoColor=FFFFFF&label=)](https://databricks.com/)
+
+## Office Suites
+
+[![Office 365](https://img.shields.io/static/v1?style=for-the-badge&message=Office%20365&color=D83B01&logo=Microsoft%20Office&logoColor=FFFFFF&label=)](https://www.office.com/)
+[![Google Suite](https://img.shields.io/static/v1?style=for-the-badge&message=Google%20Suite&color=4285F4&logo=Google%20Drive&logoColor=FFFFFF&label=)](https://workspace.google.com/)
+
+## Other Tools
+
+[![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logo=Linux&logoColor=000000&label=)](https://www.kernel.org/)
+[![Jenkins](https://img.shields.io/static/v1?style=for-the-badge&message=Jenkins&color=D24939&logo=Jenkins&logoColor=FFFFFF&label=)](https://www.jenkins.io/)
+[![Dbeaver](https://img.shields.io/static/v1?style=for-the-badge&message=Dbeaver&color=372923&logo=Dbeaver&logoColor=FFFFFF&label=)](https://dbeaver.io/)
+[![Airflow](https://img.shields.io/static/v1?style=for-the-badge&message=Airflow&color=017
+
+
+
+
+
 
 
 
