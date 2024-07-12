@@ -27,28 +27,6 @@ Consultant Data expérimenté, j'aide les entreprises à exploiter leur potentie
 
 **Autres :** Linux, Jenkins, Dbeaver, Airflow, Vtom
 
-
-# My dbt Project
-
 [![dbt](https://img.shields.io/static/v1?style=for-the-badge&message=dbt%20v1.5.0&color=FF694B&logo=dbt&logoColor=FFFFFF&label=)](https://www.getdbt.com/)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)](https://opensource.org/licenses/Apache-2.0)
-
-This project uses dbt (data build tool) to transform our data warehouse.
-
-## Project Overview
-
-[Add your project description here]
-
-## Getting Started
-
-[Add instructions on how to set up and run your dbt project]
-
-## Resources
-
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
 
