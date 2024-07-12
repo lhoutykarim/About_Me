@@ -27,5 +27,3 @@ Consultant Data expérimenté, j'aide les entreprises à exploiter leur potentie
 
 **Autres :** Linux, Jenkins, Dbeaver, Airflow, Vtom
 
-
-![dbt version](https://img.shields.io/badge/dbt-1.0.0-orange) 
